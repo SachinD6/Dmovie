@@ -3,10 +3,10 @@ DMovie is a Disney+ Clone (**Beta Version**), which fetch the popular movie resu
 
 ## Techs and tool utilized
 
-- NextJS
-- React Icons
-- TMDB API
-- Styled Components
+- [NextJS](https://nextjs.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [TMDB API](https://www.themoviedb.org/documentation/api)
+-[Styled Components](https://styled-components.com/)
 
 ## Environment Variables
 
