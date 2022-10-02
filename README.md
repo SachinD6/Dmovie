@@ -1,6 +1,10 @@
 # Dmovie
 DMovie is a Disney+ Clone (**Beta Version**), which fetch the popular movie result from TMDB Api
 
+## Demo
+
+https://user-images.githubusercontent.com/66558571/193465673-c4651cd2-a30e-4083-af0d-9889ba4888e1.mp4
+
 ## Techs and tool utilized
 
 - [NextJS](https://nextjs.org/)
@@ -45,3 +49,6 @@ Start the server
 - Fetch Movies of different genres & show using carousel
 - Add Search Functionality
 - Movie Details page
+
+
+
