@@ -1,7 +1,7 @@
 # Dmovie
 DMovie is a Disney+ Clone (**Beta Version**), which fetch the popular movie result from TMDB Api
 
-##Techs and tool utilized
+## Techs and tool utilized
 
 - NextJS
 - React Icons
